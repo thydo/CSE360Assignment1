@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\Fall 2020\CSE360\Assignment1\.metadata\.plugins\org.eclipse.jdt.core
+2452720977.index
