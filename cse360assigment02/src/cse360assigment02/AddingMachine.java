@@ -8,19 +8,19 @@ public class AddingMachine {
   }
   
   public int getTotal () {
-    return 0;
+    return 0; //Return total amount
   }
   
-  public void add (int value) {
+  public void add (int value) { //add to total 
+  } 
+
+  public void subtract (int value) { //subtract from total
   }
 
-  public void subtract (int value) {
-  }
-
-  public String toString () {
+  public String toString () { //return all operation input
     return "";
   }
 
-  public void clear() {
+  public void clear() { //clear toString
   }
 }
